@@ -11,12 +11,16 @@
 
 > **Live website Link :** (Electronic Shop ecommerce website)[https://electronic-shop-ecommerce-template.netlify.app/]
 
-## Website Preview
+> Website in action responsive view :
+
+
+
+https://user-images.githubusercontent.com/44089465/186202929-b4e02772-2619-4f9b-8794-3d7146e72d38.mp4
+
+
+
+
+
+## Snapshot :
 
 ![Desktop](thumbnail.png)
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="responsive.mp4" type="video/mp4">
-  </video>
-</figure>
